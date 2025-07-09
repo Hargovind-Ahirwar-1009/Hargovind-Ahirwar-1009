@@ -40,7 +40,7 @@ Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools â
 
 ðŸš€ Current Stack:
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="30" title="Hugging Face" />
-<img src="https://github.com/your-username/your-repo-name/blob/main/assets/langchain-logo.png" width="30" title="LangChain" />
+<img src="https://img.shields.io/badge/LangChain-%F0%9F%94%97-blue?style=flat-square" alt="LangChain"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure" />
@@ -72,7 +72,7 @@ Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools â
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="scikit-learn" />
   <img src="https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-yellow?style=flat-square" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/LangChain-%F0%9F%94%97-blue?style=flat-square" alt="LangChain"/>
   <img src="https://img.shields.io/badge/FAISS-%F0%9F%93%9A-brightgreen?style=flat-square" alt="FAISS"/>
@@ -89,7 +89,7 @@ Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools â
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
