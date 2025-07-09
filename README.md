@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Hargovind-Ahirwar-1009">
-    <img src="https://img.shields.io/github/followers/Hargovind-Ahirwar-1009?label=Follow&style=social" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/hargovindahirwar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
