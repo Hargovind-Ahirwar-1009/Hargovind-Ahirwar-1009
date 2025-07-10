@@ -30,6 +30,7 @@ I'm a curious and passionate developer who's always exploring the edges of what'
 Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools — I'm always learning, experimenting, and building.
 
 💡 I believe in **learning by doing** — every new tool is an opportunity to build something awesome.
+
 🔁 My mindset: **Break → Build → Automate → Scale**
 
 🧠 I work across:
