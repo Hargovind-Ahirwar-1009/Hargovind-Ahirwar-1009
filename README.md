@@ -125,14 +125,6 @@ Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools �
 
 ---
 
-### 📜 Certificates
-
-- ✅ Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
-- 📊 Tableau: Data Analysis Professional (Coursera)
-- 🎓 NPTEL: Business Intelligence and Analytics
-
----
-
 ### 🔢 GitHub Stats
 
 <p align="center">
