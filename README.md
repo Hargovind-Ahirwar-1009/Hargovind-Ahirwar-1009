@@ -109,21 +109,6 @@ Whether it's building LLM agents, deploying AI apps, or mastering DevOps tools �
 
 ---
 
-### 🧩 Featured Projects
-
-#### 🔷 [Conversational SQL AI Agent](https://github.com/Hargovind-Ahirwar-1009/conversational-sql-agent)
-🧠 Built a natural language interface for SQL using LangChain, Groq LLaMA 3, and Streamlit  
-🔐 Features: Agent memory, dynamic DB switch, secure execution, auto-querying
-
-#### 🔷 [LSTM Next Word Prediction](https://github.com/Hargovind-Ahirwar-1009/Next-Word-Prediction-Using-LSTM)
-📚 Trained on Shakespeare’s *Hamlet* — predicts the next word with 92% accuracy  
-🧠 Techniques: Tokenization, Word Embedding, Dropout, Early Stopping
-
-#### 🔷 [Customer Churn Detection (ANN)](https://github.com/Hargovind-Ahirwar-1009/ANN-Classification-Customer-churn)
-📉 Built a neural network to classify customer churn with real-world transactional data  
-📈 Achieved 91% accuracy with an optimized ANN using TensorFlow
-
----
 
 ### 🔢 GitHub Stats
 
